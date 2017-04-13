@@ -1,8 +1,10 @@
+/*Global Styles*/
 body{
   background: #000;
   font-family: verdana;
   text-align: center;
 }
+/*Headings*/
 h1{
   font-weight: Normal;
   font-size: 50px;
@@ -14,14 +16,17 @@ h2{
 h1, h2{
   color: #FFF;
 }
+/*Call to Action*/
 a{
   color: Aquamarine;
   font-size: 16px;
 }
+/*Paragraphs*/
 p{
   font-size: 21px;
   color: gray;
 }
+/*Footer*/
 footer{
   text-align: right;
 }
